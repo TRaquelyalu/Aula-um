@@ -6,5 +6,6 @@ celsius = float(input("Digite a temperatura em ºC: "))
 
 fahrenheit = (celsius * 9/5) + 32
 
+
 # Exibe o resultado
 print(f"A temperatura de {celsius:.2f}ºC corresponde a {fahrenheit:.2f}ºF.")
